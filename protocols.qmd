@@ -1,0 +1,20 @@
+---
+title: "Protocols"
+---
+
+## Bulk RNA-seq Pipeline
+
+1. fastp
+2. STAR alignment
+3. featureCounts
+4. DESeq2
+
+## Single-cell Pipeline
+
+1. QC
+2. SCTransform
+3. Integration
+4. Clustering
+5. Annotation
+
+---

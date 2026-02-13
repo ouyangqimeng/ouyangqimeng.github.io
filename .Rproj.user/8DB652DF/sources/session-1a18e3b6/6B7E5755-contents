@@ -1,0 +1,17 @@
+---
+title: "Bioinformatics Notes"
+---
+
+## R / Seurat
+
+-   QC workflow
+-   Custom color palettes
+-   Module score calculation
+
+## Python / Scanpy
+
+-   Basic pipeline
+-   Differential expression
+-   Pseudotime analysis
+
+------------------------------------------------------------------------

@@ -1,0 +1,20 @@
+{
+  "about.qmd": {
+    "about.html": "46c27ef2"
+  },
+  "index.qmd": {
+    "index.html": "acb338b4"
+  },
+  "notes.qmd": {
+    "notes.html": "9fdaaadd"
+  },
+  "projects.qmd": {
+    "projects.html": "c6573b27"
+  },
+  "protocols.qmd": {
+    "protocols.html": "9d6c7cba"
+  },
+  "resources.qmd": {
+    "resources.html": "b5bc0814"
+  }
+}

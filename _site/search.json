@@ -1,0 +1,135 @@
+[
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "GEO\nSRA\nTCGA\nSTRING"
+  },
+  {
+    "objectID": "resources.html#databases",
+    "href": "resources.html#databases",
+    "title": "Resources",
+    "section": "",
+    "text": "GEO\nSRA\nTCGA\nSTRING"
+  },
+  {
+    "objectID": "resources.html#visualization",
+    "href": "resources.html#visualization",
+    "title": "Resources",
+    "section": "Visualization",
+    "text": "Visualization\n\nggplot2\nComplexHeatmap\nggraph"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Bulk RNA-seq analysis\nSingle-cell macrophage profiling\nNAT10-ac4C regulation"
+  },
+  {
+    "objectID": "projects.html#myocardial-infarction-mi",
+    "href": "projects.html#myocardial-infarction-mi",
+    "title": "Projects",
+    "section": "",
+    "text": "Bulk RNA-seq analysis\nSingle-cell macrophage profiling\nNAT10-ac4C regulation"
+  },
+  {
+    "objectID": "projects.html#single-cell-transcriptomics",
+    "href": "projects.html#single-cell-transcriptomics",
+    "title": "Projects",
+    "section": "Single-cell Transcriptomics",
+    "text": "Single-cell Transcriptomics\n\nSeurat workflow\nHarmony integration\nCellChat communication analysis"
+  },
+  {
+    "objectID": "projects.html#multi-omics-integration",
+    "href": "projects.html#multi-omics-integration",
+    "title": "Projects",
+    "section": "Multi-omics Integration",
+    "text": "Multi-omics Integration\n\nNicheNet\nscTenifoldKnk\nProteomics integration"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "I am Ouyang Qimeng, focusing on bioinformatics and cardiovascular research, with particular interests in:\n\nSingle-cell RNA-seq analysis\n\nImmune cell dynamics in myocardial infarction\n\nMulti-omics integration and regulatory networks\n\nThis website serves as a personal knowledge base for bioinformatics workflows, research projects, and reproducible analyses."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Bioinformatics Notes",
+    "section": "",
+    "text": "QC workflow\nCustom color palettes\nModule score calculation"
+  },
+  {
+    "objectID": "notes.html#r-seurat",
+    "href": "notes.html#r-seurat",
+    "title": "Bioinformatics Notes",
+    "section": "",
+    "text": "QC workflow\nCustom color palettes\nModule score calculation"
+  },
+  {
+    "objectID": "notes.html#python-scanpy",
+    "href": "notes.html#python-scanpy",
+    "title": "Bioinformatics Notes",
+    "section": "Python / Scanpy",
+    "text": "Python / Scanpy\n\nBasic pipeline\nDifferential expression\nPseudotime analysis"
+  },
+  {
+    "objectID": "protocols.html",
+    "href": "protocols.html",
+    "title": "Protocols",
+    "section": "",
+    "text": "fastp\nSTAR alignment\nfeatureCounts\nDESeq2"
+  },
+  {
+    "objectID": "protocols.html#bulk-rna-seq-pipeline",
+    "href": "protocols.html#bulk-rna-seq-pipeline",
+    "title": "Protocols",
+    "section": "",
+    "text": "fastp\nSTAR alignment\nfeatureCounts\nDESeq2"
+  },
+  {
+    "objectID": "protocols.html#single-cell-pipeline",
+    "href": "protocols.html#single-cell-pipeline",
+    "title": "Protocols",
+    "section": "Single-cell Pipeline",
+    "text": "Single-cell Pipeline\n\nQC\nSCTransform\nIntegration\nClustering\nAnnotation"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Home",
+    "section": "",
+    "text": "I am Ouyang Qimeng, focusing on bioinformatics and cardiovascular research, with particular interests in:\n\nSingle-cell RNA-seq analysis\n\nImmune cell dynamics in myocardial infarction\n\nMulti-omics integration and regulatory networks\n\nThis website serves as a personal knowledge base for bioinformatics workflows, research projects, and reproducible analyses."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Home",
+    "section": "🔬 Research Interests",
+    "text": "🔬 Research Interests\n\nMyocardial infarction (MI) and ischemia–reperfusion injury\n\nMacrophage heterogeneity and immune regulation\n\nSingle-cell & spatial transcriptomics\n\nGene regulatory networks and multi-omics integration"
+  },
+  {
+    "objectID": "index.html#what-you-can-find-here",
+    "href": "index.html#what-you-can-find-here",
+    "title": "Home",
+    "section": "🧬 What You Can Find Here",
+    "text": "🧬 What You Can Find Here\n\nProjects: Ongoing and completed research projects\n\nBioinfo Notes: R / Seurat / CellChat / Scanpy workflows\n\nProtocols: Analysis pipelines and experimental notes\n\nResources: Useful databases, tools, and visualization styles"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Home",
+    "section": "📫 Contact",
+    "text": "📫 Contact\n\nGitHub: &lt;https://github.com/ouyangqimeng"
+  }
+]
