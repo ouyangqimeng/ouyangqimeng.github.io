@@ -1,0 +1,43 @@
+---
+title: "Color Palettes"
+---
+
+## Morandi palette system (single-cell / network / multi-omics)
+
+```{r}
+.morandi_base <- function(){
+  c("#D2EBC8","#3C77AF","#7DBFA7","#AECDE1","#EE934E","#D1352B",
+    "#9B5B33","#F5CFE4","#B383B9","#8FA4AE","#FCED82","#F5D2A8","#BBDD78")
+}
+
+pal_sc_cluster <- function(n, shuffle = TRUE){
+  stopifnot(n >= 1, n <= 30)
+  base <- .morandi_base()
+  cols <- grDevices::colorRampPalette(base)(n)
+  if (shuffle && n > 3){
+    idx <- unique(c(seq(1, n, by = 2), seq(2, n, by = 2)))
+    cols <- cols[idx]
+  }
+  cols
+}
+
+pal_net_edge_strength <- function(n = 50, hue = c("blue","red","teal","purple")){
+  hue <- match.arg(hue)
+  anchors <- switch(
+    hue,
+    blue   = c("#AECDE1", "#3C77AF"),
+    red    = c("#F5D2A8", "#D1352B"),
+    teal   = c("#D2EBC8", "#7DBFA7"),
+    purple = c("#F5CFE4", "#B383B9")
+  )
+  grDevices::colorRampPalette(anchors)(n)
+}
+
+pal_multiomics_modality <- function(){
+  c(RNA="#3C77AF", ATAC="#B383B9", Protein="#EE934E", Metabolomics="#BBDD78",
+    Phospho="#D1352B", Spatial="#7DBFA7", Phenotype="#8FA4AE")
+}
+
+# preview
+par(mfrow=c(1,1), mar=c(4,2,2,1))
+barplot(rep(1, 20), col = pal_sc_cluster(20), border = NA, main = "pal_sc_cluster(20)", axes = FALSE)
