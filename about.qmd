@@ -3,4 +3,4 @@ title: "About"
 ---
 
 About this site
-
+This website serves as a **personal knowledge base** for bioinformatics workflows, research projects, and reproducible analyses.
